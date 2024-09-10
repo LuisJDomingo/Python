@@ -1,0 +1,15 @@
+Pregunta: ¿Qué es el "Principio de Pareto" y cómo se aplica en el mundo real?
+
+Respuesta: El Principio de Pareto, también conocido como la Regla del 80/20, es una teoría que sugiere que, en muchos fenómenos, el 80% de los efectos provienen del 20% de las causas. Esta idea fue formulada por el economista Vilfredo Pareto en el siglo XIX, quien observó que aproximadamente el 80% de la tierra en Italia estaba en manos del 20% de la población.
+
+En el mundo real, el Principio de Pareto se aplica en diversas áreas:
+
+Negocios: En ventas, a menudo se observa que el 80% de los ingresos provienen del 20% de los clientes. Las empresas pueden usar esta información para centrarse en sus clientes más valiosos.
+
+Productividad: El 80% de los resultados de trabajo pueden provenir del 20% de las tareas. Priorizar estas tareas puede aumentar la eficiencia.
+
+Gestión de inventarios: En la gestión de inventarios, el 80% del valor de inventario puede provenir del 20% de los productos. Esto ayuda a las empresas a centrarse en los productos más rentables.
+
+Desarrollo de software: En la depuración de software, el 80% de los errores pueden estar causados por el 20% del código. Esto ayuda a los desarrolladores a enfocar sus esfuerzos en los problemas más críticos.
+
+El Principio de Pareto es útil para identificar áreas clave donde se puede hacer una gran diferencia con un esfuerzo relativamente pequeño.
